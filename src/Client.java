@@ -8,6 +8,7 @@ public class Client {
         System.out.print(prompt + "");
         return reader.readLine();
     }
+    
     public static void main(String[] args) {
         String userInput;
         reader = new BufferedReader(new InputStreamReader(System.in));
