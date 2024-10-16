@@ -1,6 +1,5 @@
 ## Java Multi Thread Server
 
-
 ## Folder Structure
 
 The workspace contains two folders by default, where:
